@@ -93,16 +93,16 @@ This project implements and compares two Decision Tree algorithms — CART using
 
 ## Model Comparison
 
-| Metric | CART (Gini) | ID3 (Entropy) |
-|--------|------------|---------------|
-| Accuracy | - | - |
-| Precision | - | - |
-| Recall | - | - |
-| F1 Score | - | - |
-| AUC | - | - |
+Metric        CART (Gini)  ID3 (Entropy)
+----------------------------------------
+Accuracy           0.9333         0.9333
+Precision          0.9333         0.9333
+Recall             0.9333         0.9333
+F1 Score           0.9333         0.9333
+AUC                0.9733         0.9500
 
 ---
 
 ## 🔗 Links
-- **Colab Notebook:** [Click Here](YOUR_DT_COLAB_LINK_HERE)
+- **Colab Notebook:** https://colab.research.google.com/drive/15JyVCwIalZNsjs83LjY7KayMoOs75Ftn?usp=sharing
 - **GitHub Repo:** https://github.com/rubyat43/220143_DT_-_K_Means_Clustering
