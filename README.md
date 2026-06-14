@@ -93,13 +93,13 @@ This project implements and compares two Decision Tree algorithms — CART using
 
 ## Model Comparison
 
-Metric        CART (Gini)  ID3 (Entropy)
-----------------------------------------
-Accuracy           0.9333         0.9333
-Precision          0.9333         0.9333
-Recall             0.9333         0.9333
-F1 Score           0.9333         0.9333
-AUC                0.9733         0.9500
+| Metric | CART (Gini) | ID3 (Entropy) |
+|--------|------------|---------------|
+| Accuracy | 0.9333 | 0.9333 |
+| Precision | 0.9333 | 0.9333 |
+| Recall | 0.9333 | 0.9333 |
+| F1 Score | 0.9333 | 0.9333 |
+| AUC | 0.9733 | 0.9500 |
 
 ---
 
