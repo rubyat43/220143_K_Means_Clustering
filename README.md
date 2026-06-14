@@ -52,3 +52,57 @@ The scatter plot below shows the 5 customer segments with centroids marked as �
 ## 🔗 Links
 - **Colab Notebook:** https://colab.research.google.com/drive/1NVfBFfRvCfpY5C_YwhTXGPHrZbgDGSyh?usp=sharing
 - **GitHub Repo:** https://github.com/rubyat43/220143_DT_-_K_Means_Clustering
+
+
+---
+
+# Decision Tree Implementation — CART vs ID3
+**Student ID:** 220143  
+**Algorithm:** CART (Gini) vs ID3 (Entropy)  
+**Dataset:** Iris Dataset  
+
+---
+
+## Project Description
+This project implements and compares two Decision Tree algorithms — CART using Gini criterion and ID3 using Entropy criterion. Both models are tuned using Cross-Validation with GridSearchCV to find the best max_depth and min_samples_split parameters.
+
+---
+
+## Repository Structure
+
+---
+
+## Visualizations
+
+### Confusion Matrix — CART vs ID3
+![Confusion Matrix](DT_Decision_Tree/confusion_matrix.png)
+
+### Decision Boundary — CART vs ID3
+![Decision Boundary](DT_Decision_Tree/decision_boundary.png)
+
+### ROC Curve — CART vs ID3
+![ROC Curve](DT_Decision_Tree/roc_curve.png)
+
+### Evaluation Metrics — CART vs ID3
+![Metrics](DT_Decision_Tree/metrics.png)
+
+### Decision Tree Structure
+![Tree Structure](DT_Decision_Tree/tree_structure.png)
+
+---
+
+## Model Comparison
+
+| Metric | CART (Gini) | ID3 (Entropy) |
+|--------|------------|---------------|
+| Accuracy | - | - |
+| Precision | - | - |
+| Recall | - | - |
+| F1 Score | - | - |
+| AUC | - | - |
+
+---
+
+## 🔗 Links
+- **Colab Notebook:** [Click Here](YOUR_DT_COLAB_LINK_HERE)
+- **GitHub Repo:** https://github.com/rubyat43/220143_DT_-_K_Means_Clustering
